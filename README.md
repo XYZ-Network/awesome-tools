@@ -14,3 +14,7 @@ src="https://avatars.githubusercontent.com/u/74674198?s=200&v=4">
 
 * [MeetingBar](https://github.com/leits/MeetingBar) – is a menu bar app for your calendar meetings
 * [finicky](https://github.com/johnste/finicky) – is a macOS application that allows you to set up rules that decide which browser is opened for every link or url
+
+## DevOps
+
+* [lens](https://github.com/lensapp/lens) - provides the full situational awareness for everything that runs in Kubernetes
