@@ -18,3 +18,7 @@ src="https://avatars.githubusercontent.com/u/74674198?s=200&v=4">
 ## DevOps
 
 * [lens](https://github.com/lensapp/lens) - provides the full situational awareness for everything that runs in Kubernetes
+
+## Developer experience
+
+* [FiraCode](https://github.com/tonsky/FiraCode) - free monospaced font with programming ligatures
