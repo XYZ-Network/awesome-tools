@@ -22,4 +22,7 @@ src="https://avatars.githubusercontent.com/u/74674198?s=200&v=4">
 ## Testing
 
 * [HTTPie](https://httpie.io/) - user-friendly command-line HTTP client for the API era
-* 
+
+## Developer experience
+
+* [FiraCode](https://github.com/tonsky/FiraCode) - free monospaced font with programming ligatures
